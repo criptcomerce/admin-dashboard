@@ -14,10 +14,7 @@ dist/
 
 # env files (nunca commitar segredos)
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+
 
 # debug logs
 npm-debug.log*
